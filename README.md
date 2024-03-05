@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miss-Alpha
-- 👀 I’m interested in Data Science, Machine Learning, Statistical tools
+- 👀 I’m interested in Large Language Modles
 - 🌱 I’m currently learning how to be a better story-teller
 - 📫 atoos.m@gmail.com
 
